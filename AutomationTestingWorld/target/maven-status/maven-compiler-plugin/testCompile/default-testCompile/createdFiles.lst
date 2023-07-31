@@ -1,0 +1,7 @@
+Locators\AppliancesCategoryPage.class
+Test\Scenario1.class
+Test\Scenario1$selectItemThenCheckOut.class
+Locators\HomePage.class
+TestBase\testBase.class
+Actions\actions.class
+Locators\CheckOutPage.class
